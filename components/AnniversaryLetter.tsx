@@ -10,7 +10,7 @@ export default function AnniversaryLetter() {
           Happy 3rd Anniversary
         </span>
         <h1 className="text-3xl md:text-4xl font-serif font-bold text-[#2c221e]">
-          Hello Love
+          Hello Love!
         </h1>
         <p className="text-xs font-serif italic text-[#7a675c]">
           3 Years &amp; Still Counting
@@ -37,7 +37,7 @@ export default function AnniversaryLetter() {
 
         <div className="pt-6 border-t border-[#ebd8c8] text-right">
           <p className="font-serif italic text-[#c86d7c]">Forever yours,</p>
-          <p className="font-serif font-bold text-[#2c221e] mt-1">Christoper Uriel</p>
+          <p className="font-serif font-bold text-[#2c221e] mt-1">your baby, yel</p>
         </div>
       </div>
     </div>

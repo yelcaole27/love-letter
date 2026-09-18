@@ -10,7 +10,7 @@ export default function BirthdayLetter() {
           Happy 20th Birthday
         </span>
         <h1 className="text-3xl md:text-4xl font-serif font-bold text-[#2c221e]">
-          Hi Love, My Ry
+          Hello Love!
         </h1>
         <p className="text-xs font-serif italic text-[#7a675c]">
           Celebrating You Today
@@ -34,7 +34,7 @@ export default function BirthdayLetter() {
 
         <div className="pt-6 border-t border-[#ebd8c8] text-right">
           <p className="font-serif italic text-[#c86d7c]">With all my love,</p>
-          <p className="font-serif font-bold text-[#2c221e] mt-1">Christoper Uriel</p>
+          <p className="font-serif font-bold text-[#2c221e] mt-1">your darling, yel</p>
         </div>
       </div>
     </div>

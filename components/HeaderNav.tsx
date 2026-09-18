@@ -11,7 +11,7 @@ export default function HeaderNav({ activeTab, setActiveTab }: HeaderNavProps) {
     <header className="fixed top-0 inset-x-0 z-50 bg-[#f7f4ee]/90 backdrop-blur-md border-b border-[#e2d9cd] py-4 px-6 shadow-sm">
       <div className="max-w-4xl mx-auto flex items-center justify-between">
         <div className="font-serif italic text-sm tracking-wide text-[#705649]">
-          for my favorite person 🌿
+          for my ry 🌷
         </div>
 
         {/* Tab Selector */}
