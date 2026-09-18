@@ -7,30 +7,34 @@ export default function AnniversaryLetter() {
       {/* Header */}
       <div className="border-b border-[#ebd8c8] pb-6 text-center space-y-2">
         <span className="text-xs font-serif tracking-widest text-[#c86d7c] uppercase">
-          Happy Anniversary
+          Happy 3rd Anniversary
         </span>
         <h1 className="text-3xl md:text-4xl font-serif font-bold text-[#2c221e]">
-          To My Love
+          Hello Love
         </h1>
         <p className="text-xs font-serif italic text-[#7a675c]">
-          Our Special Chapter
+          3 Years &amp; Still Counting
         </p>
       </div>
 
       {/* Scrolling Letter Content */}
       <div className="space-y-6 text-base md:text-lg leading-relaxed text-[#3d2f28] font-serif font-light max-h-[55vh] overflow-y-auto pr-4 custom-scrollbar">
         <p>
-          Happy Anniversary, my love! Looking back at everything we have shared, I am constantly reminded of how lucky I am to have you by my side.
+          Hello Love, Happy 3rd Anniversary!
         </p>
         <p>
-          From our late-night conversations to simple everyday moments, every memory with you holds a special place in my heart. You have been my constant support, my greatest joy, and my best friend.
+          3 yrs na tayo bebe and still counting hehehe. Sorry mahal ha, sa mga nagawa kong masakit sayo bebe, all of our arguments mahal. Alam mo bebe, I always listen to you, kahit na ganto ugali ko mahal.
         </p>
         <p>
-          Thank you for all the laughter, the patience, and the unconditional love you give me every single day. Being with you makes life so much brighter.
+          You chose to stay and understand, and I love that of you. Napaka-understandable mo mahal and ayon, you are with me through ups and downs and I appreciate that, mahal ko.
         </p>
         <p>
-          As we celebrate another year of togetherness, I look forward to creating countless more memories, growing together, and loving you more with each passing day.
+          Sorry mahal ko sa mga nagawa ko. Mahal na mahal kita baby ko!
         </p>
+        <p className="font-semibold text-[#c86d7c] pt-2">
+          This celebration is the proof that Love still wins no matter what. Mahal na mahal kita!
+        </p>
+
         <div className="pt-6 border-t border-[#ebd8c8] text-right">
           <p className="font-serif italic text-[#c86d7c]">Forever yours,</p>
           <p className="font-serif font-bold text-[#2c221e] mt-1">Christoper Uriel</p>
